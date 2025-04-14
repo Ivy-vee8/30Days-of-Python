@@ -10,5 +10,5 @@ Each day contains Python examples, practice exercises, and solutions to help bui
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/30-Days-of-Python.git
-   cd 30-Days-of-Python
+   git clone https://github.com/Ivy-vee8/30Days-of-Python.git
+   cd 30Days-of-Python
